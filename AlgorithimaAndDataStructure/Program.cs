@@ -140,3 +140,5 @@ class Reversed
         Console.WriteLine("Reverse No. is {0}", reverseArr);
     }
 }
+
+// The time complexity of solution is O(n)
